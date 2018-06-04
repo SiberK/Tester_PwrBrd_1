@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#c00000</color>
+    <color name="blue">#0000c0</color>
+    <color name="green">#00c000</color>
+    <color name="pink">#c000c0</color>
+    <color name="toggle_on">#a3a2a0</color>
+    <color name="toggle_off">#848484</color>
+</resources>
